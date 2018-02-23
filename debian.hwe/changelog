@@ -1,3 +1,9 @@
+linux-hwe (4.13.0-36.40~16.04.1+switch0) xenial; urgency=medium
+
+  * IPv6 fix (LP: #1738219)
+
+ -- Saverio Proto <saverio.proto@switch.ch>  Fri, 23 Feb 2018 15:00:34 -0800
+
 linux-hwe (4.13.0-36.40~16.04.1) xenial; urgency=medium
 
   * linux-hwe: 4.13.0-36.40~16.04.1 -proposed tracker (LP: #1750052)
